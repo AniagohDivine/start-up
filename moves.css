@@ -1,0 +1,19 @@
+body{
+	margin: 0px;
+	background-size: contain;
+}
+img{
+	width: 500px;
+	height: 400px;
+	margin: 10px;
+	transition: all 1s;
+	border-radius: 1000px;
+}
+img hover{
+	transform: scale(1.1);
+}
+h2{
+	font-size: 3em;
+
+
+}
